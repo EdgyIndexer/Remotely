@@ -24,7 +24,7 @@ on:
   workflow_dispatch:
     inputs:
       serverUrl:
-        description: GWIREMOTE.internal.goodwillgr.org
+        description: https://GWIREMOTE.internal.goodwillgr.org/
         required: true
       rid:
         description: 'Server Runtime Identifier'     
