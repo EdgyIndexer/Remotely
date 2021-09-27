@@ -24,7 +24,7 @@ on:
   workflow_dispatch:
     inputs:
       serverUrl:
-        description: 'Server URL'     
+        description: 10.10.33.23
         required: true
       rid:
         description: 'Server Runtime Identifier'     
